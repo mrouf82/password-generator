@@ -99,7 +99,7 @@ button[disabled] {
   float: right;
 }
 
-#password {
+.passwordClass {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
