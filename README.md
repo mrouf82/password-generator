@@ -1,8 +1,7 @@
 https://mrouf82.github.io/randomPassword-generator/
-Using Javascript, HTML, CSS, I was able to create a password generator application. This project has four different criteria to choose from, including the ability to choose from uppercase, lowercase, symbolic and numeric characters. 
+Using Javascript, HTML, CSS, I was able to create a password generator application. This project has four different criteria to choose from, including the ability to choose from uppercase, lowercase, symbolic and numeric characters.
 
 ![](assets/03-javascript-homework-demo.png
-
 
 ## User Story
 
@@ -37,5 +36,3 @@ THEN the password is either displayed in an alert or written to the page
 The following image shows the web application's appearance and functionality:
 
 ![password generator demo](./Assets/03-javascript-homework-demo.png)
-
-
