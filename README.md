@@ -1,5 +1,6 @@
 Using Javascript, HTML, CSS, I was able to create a password generator application. This project has four different criteria to choose from, including the ability to choose from uppercase, lowercase, symbolic and numeric characters. 
 
+![](assets/03-javascript-homework-demo.png
 
 
 ## User Story
@@ -40,7 +41,7 @@ The following image shows the web application's appearance and functionality:
 
 This homework is graded based on the following criteria: 
 
-### Technical Acceptance Criteria: 40%
+### Technical Acceptance Criteria: 40%)
 
 * Satisfies all of the above acceptance criteria plus the following:
 
